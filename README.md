@@ -7,14 +7,20 @@ I'm a polyvalent and curious software engineer always looking for new challenges
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, C, C++, C#, Java, JavaScript, TypeScript
-- **Web:** ASP.NET, Vue.js, JHipster
-- **AI:** OpenAI APIs, Local LLM, Function Calling, Machine Learning
-- **Databases:** PostgreSQL, MySQL
-- **Tools:** Git, GitHub, GitLab, Postman, Azure DevOps
-- **Methodologies:** Agile Scrum, CI/CD
+**Languages**  
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus) ![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp) ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilPiep&layout=compact&theme=github_dark)
+**Web**  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=for-the-badge&logo=.net) ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue.js) ![JHipster](https://img.shields.io/badge/JHipster-blue?style=for-the-badge&logo=jhipster)
+
+**AI**  
+![OpenAI](https://img.shields.io/badge/OpenAI-006400?style=for-the-badge&logo=openai) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge) ![LLM](https://img.shields.io/badge/Local%20LLM-darkgreen?style=for-the-badge)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github) ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-blue?style=for-the-badge&logo=azuredevops)
 
 ---
 
@@ -30,8 +36,8 @@ I'm a polyvalent and curious software engineer always looking for new challenges
 ---
 
 ### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pierrick%20Catteau-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pierrick-catteau/)
-[![Email](https://img.shields.io/badge/Email-pierrick.catteau%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pierrick.catteau@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pierrick-catteau/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:pierrick.catteau@gmail.com)
 
 ---
 
@@ -43,7 +49,9 @@ I'm a polyvalent and curious software engineer always looking for new challenges
 ---
 
 ### My LeetCode activity
-[![LeetCode](https://img.shields.io/badge/LeetCode-Pierrick%20Catteau-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/LilPiep/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/LilPiep/)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=LilPiep&theme=dark)
 
 ---
 

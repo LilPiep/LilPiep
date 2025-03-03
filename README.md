@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Pierrick
 
-### 💻 Junior Software Engineer passionate about Software Development
+### 💻 Junior Software Engineer
 
 I'm a polyvalent and curious software engineer always looking for new challenges. My journey so far has led me to work on projects from **AI-powered applications** to **game development** and **web applications**. I thrive in multidisciplinary environments with diverse tech stacks, especially on projects that have a positive impact 🌍.
 
@@ -13,6 +13,8 @@ I'm a polyvalent and curious software engineer always looking for new challenges
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, GitHub, GitLab, Postman, Azure DevOps
 - **Methodologies:** Agile Scrum, CI/CD
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilPiep&layout=compact&theme=github_dark)
 
 ---
 
@@ -27,14 +29,9 @@ I'm a polyvalent and curious software engineer always looking for new challenges
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LilPiep&show_icons=true&theme=github_dark)
-
----
-
 ### 📫 How to reach me
-- Email: pierrick.catteau@gmail.com
-- LinkedIn: [Pierrick Catteau](https://www.linkedin.com/in/pierrick-catteau/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pierrick%20Catteau-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pierrick-catteau/)
+[![Email](https://img.shields.io/badge/Email-pierrick.catteau%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pierrick.catteau@gmail.com)
 
 ---
 
@@ -42,6 +39,11 @@ I'm a polyvalent and curious software engineer always looking for new challenges
 - Lua + Love2D (game development)
 - Modern web development (React, TypeScript)
 - AI models & small language models in local computing
+
+---
+
+### My LeetCode activity
+[![LeetCode](https://img.shields.io/badge/LeetCode-Pierrick%20Catteau-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/LilPiep/)
 
 ---
 

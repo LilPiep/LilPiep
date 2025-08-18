@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Pierrick
 
-### 💻 Junior Software Engineer looking for a job
+### 💻 Junior Software Engineer
 
 I'm a polyvalent and curious software engineer always looking for new challenges. My journey so far has led me to work on projects from **AI-powered applications** to **game development** and **web applications**. I thrive in multidisciplinary environments with diverse tech stacks, especially on projects that have a positive impact 🌍.
 

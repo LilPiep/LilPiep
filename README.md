@@ -37,11 +37,7 @@ I'm a polyvalent and curious software engineer always looking for new challenges
 | **Guitar Zero**          | Interactive guitar learning web app         | Arduino, Python, TypeScript       | [Guitar Zero](https://github.com/LilPiep/GuitarZero) |
 | **Alstom Data Tools**      | Internal tools for CAN data manipulation   | Python, C++, Pipes & Filters       | Private |
 
----
 
-### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pierrick-catteau/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:pierrick.catteau@gmail.com)
 
 ---
 
